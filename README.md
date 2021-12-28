@@ -1,5 +1,5 @@
 - 👋 Oiiii, eu sou @CauanDZN
-- 👀 Estou interessado em aprender programação
-- 🌱 No momento, estou aprendendo sobre Python
-- 💞️ Eu estou visando colaborar com tudo e com todos
-- 📫 Quero chegar e poder fazer parte de empresas grandes... 
+- 👀 Estou interessado em aprender programação e ser um dev full-stack no futuro.
+- 🌱 No momento, estou aprendendo sobre HTML, CSS, JavaScript, PHP, Python e MySQL.
+- 💞️ Desejo colaborar com tudo e com todos.
+- 📫 Almejo fazer parte de grandes empresas! 
