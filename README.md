@@ -3,9 +3,8 @@
 - 💻 Futuro desenvolvedor front-end
 - 💻📱 Se eu conseguir superar minhas expectativas, futuro desenvolvedor full-stack e mobile!
 
-<div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CauanDZN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![CauanDZN Status](https://github-readme-stats.vercel.app/api?username=CauanDZN&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanDZN&layout=compact)](https://github.com/CauanDZN/github-readme-stats)
   
 Tenho domínio sobre:
 <div style="display: inline_block">
