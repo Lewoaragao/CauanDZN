@@ -1,6 +1,6 @@
 ### 
 <div style="display: inline">
-  <div align="center" width="50%"><img src="https://i.picasion.com/pic92/59ec3e650ab9c78dc557c5c0557efc60.gif" width="150" height="150" alt="Leo-gif"/></div>
+  <div align="center" width="50%"><img src="https://c.tenor.com/8__Lq3vOPMMAAAAS/you-jitsu.gif" alt="Ayanokoji-gif"/></div>
   <div align="center" width="50%"><span> Olá, me chamo Cauan Victor.<br> Seja bem-vindo ao meu perfil no GitHub ✌😉</span></div>
 </div>
 <div align="center" style="display: inline"><br>
