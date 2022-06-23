@@ -8,7 +8,7 @@ I have knowledge in HTML, CSS, JavaScript, as well as mastery in design. I am wi
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [cauanvictor0325@gmail.com](mailto:cauanvictor0325@gmail.com)
-*   🧠  I'm learning ReactJS
+*   🧠  I'm learning React, NodeJS, Next.js, TypeScript and Prisma
 
 ### Skills
 <p align="left">
