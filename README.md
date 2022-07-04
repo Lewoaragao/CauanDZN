@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal plans**
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **NextJS**
 
 - 🤝 I’m looking to collaborate on **ONG's**
 
