@@ -3,10 +3,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CauanDZN&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
 
-<h2>🏆 Github Trophys</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=CauanDZN&column=8&theme=radical&no-frame=true"/>
-</a>
+<h2 align="center">🏆 Github Trophys</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cauandzn&theme=radical" alt="cauandzn" /></a> </p>
 
 
 ---
