@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQFJyqHBqexLOQ/profile-displaybackgroundimage-shrink_200_800/0/1650917481637?e=1663804800&v=beta&t=94ezJIbK81Ji6jfBI2Dh79_o2QLdk_H-s1XxuHTH-9s" /></o>
 <h1 align="center">Hi 👋, I'm Cauan Victor</h1>
 <h3 align="center">A passionate fullstack developer from Brazil!</h3>
 
