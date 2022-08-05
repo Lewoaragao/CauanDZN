@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=CauanDZN%20&fontAlignY=40&color=gradient)
+
 <h1 align="center">Hi 👋, I'm Cauan Victor</h1>
 <h3 align="center">A passionate fullstack developer from Brazil!</h3>
 
@@ -18,7 +19,7 @@
 
 - 💬 Ask me about **React!**
 
-- 📫 How to reach me: **cauanvictor0325@gmail.com**
+- 📫 How to reach me: **f.cauan.victor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
