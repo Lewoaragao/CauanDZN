@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **personal plans**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NodeJS and React Native**
 
 - 🤝 I’m looking to collaborate on **ONG's**
 
