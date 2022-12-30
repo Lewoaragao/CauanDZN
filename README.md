@@ -161,4 +161,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanDZN&theme=radical&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CauanDZN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CauanDZN&bg_color=000000&color=00b3ff&line=0062ff&point=009dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
