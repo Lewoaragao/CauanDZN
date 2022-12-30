@@ -156,8 +156,6 @@
 
 ---
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanDZN&hide=html,java,css)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CauanDZN&bg_color=000000&color=00b3ff&line=0062ff&point=009dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Cauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanDZN&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanDZN&theme=radical&show_icons=true&layout=compact&hide=html,java,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Cauan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CauanDZN&bg_color=000000&color=00b3ff&line=0062ff&point=009dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
