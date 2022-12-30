@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **NodeJS and React Native**
 
-- 🤝 I’m looking to collaborate on **ONG's**
+- 🤝 I currently contribute to the <a href="https://github.com/reactjs-ceara">React.js Ceará</a> community
 
 - 💬 Ask me about **React!**
 
@@ -31,10 +31,18 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px;" alt="TypeScript icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJS</pre>
         </b>
       </sub>
     </td>
@@ -62,27 +70,11 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px;" alt="TypeScript icon"/><br>
-      <sub>
-        <b>
-          <pre>TypeScript</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center" width="100px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
         </b>
       </sub>
     </td>
@@ -99,14 +91,6 @@
       <sub>
         <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
         </b>
       </sub>
     </td>
@@ -130,7 +114,7 @@
       <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="100px;" alt="Yarn/npm icon"/><br>
       <sub>
         <b>
-          <pre>Yarn/npm</pre>
+          <pre>NPM/Yarn</pre>
         </b>
       </sub>
     </td>
@@ -139,14 +123,6 @@
       <sub>
         <b>
           <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
         </b>
       </sub>
     </td>
