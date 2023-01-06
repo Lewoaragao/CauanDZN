@@ -87,14 +87,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
       <sub>
         <b>
@@ -115,14 +107,6 @@
       <sub>
         <b>
           <pre>NPM/Yarn</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ExpressJS</pre>
         </b>
       </sub>
     </td>
