@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Cauan Victor</h1>
 <h3 align="center">A passionate fullstack developer from Brazil!</h3>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cauangameplays&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" /></div> 
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CauanDZN&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
+
+---
 
 <h2 align="center">🏆 Github Trophys</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cauandzn&theme=radical" alt="cauandzn" /></a> </p>
