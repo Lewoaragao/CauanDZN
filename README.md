@@ -124,3 +124,5 @@
 [![Cauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanDZN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Cauan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CauanDZN&bg_color=000000&color=00b3ff&line=0062ff&point=009dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cauangameplays&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
