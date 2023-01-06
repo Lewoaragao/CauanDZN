@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=CauanDZN%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=CauanDZN%20&fontAlignY=40&color=0:EEFF00,100:a82da8&fontColor=fff)
 
 <h1 align="center">Hi 👋, I'm Cauan Victor</h1>
 <h3 align="center">A passionate fullstack developer from Brazil!</h3>
