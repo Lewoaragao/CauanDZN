@@ -93,7 +93,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CauanDZN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CauanDZN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<div align="center"><img src="https://streak-stats.demolab.com/?user=CauanDZN" align="center" /></div>
+
+
+
+ 
 
 <br/>  
 
